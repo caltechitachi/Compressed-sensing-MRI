@@ -1,3 +1,5 @@
+#Convex optimization approach. Source: http://www.mlustig.com
+
 This is an implementation of Compressed Sensing reconstruction for MRI data.
 It implements the non-linear conjugate sub-gradient algorithm as described in 
 the paper "Sparse MRI: The Application of Compressed Sensing for Rapid MR Imaging", 2007
@@ -44,7 +46,8 @@ If you have any questions/comments, feel free to contact Michael (Miki)  Lustig 
 http://www.mlustig.com
 
 
-Enjoy!
+#Greedy algorithm approach
+source: https://www.mathworks.com/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery
 
 
 
